@@ -60,7 +60,7 @@ main {
     padding-top: 17vw;
     grid-row-gap: 15vw;
     grid-column-gap: 22vw;
-    position: relative;
+
 }
 main p {
     color: skyblue;
